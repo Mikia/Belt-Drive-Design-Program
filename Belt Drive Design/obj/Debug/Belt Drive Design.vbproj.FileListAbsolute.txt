@@ -1,0 +1,24 @@
+C:\Users\aimik\Documents\Visual Studio 2017\Projects\Belt Drive Design\Belt Drive Design\bin\Debug\Belt Drive Design.exe.config
+C:\Users\aimik\Documents\Visual Studio 2017\Projects\Belt Drive Design\Belt Drive Design\bin\Debug\Belt Drive Design.exe
+C:\Users\aimik\Documents\Visual Studio 2017\Projects\Belt Drive Design\Belt Drive Design\bin\Debug\Belt Drive Design.pdb
+C:\Users\aimik\Documents\Visual Studio 2017\Projects\Belt Drive Design\Belt Drive Design\bin\Debug\Belt Drive Design.xml
+C:\Users\aimik\Documents\Visual Studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt Drive Design.vbprojResolveAssemblyReference.cache
+C:\Users\aimik\Documents\Visual Studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt_Drive_Design.Resources.resources
+C:\Users\aimik\Documents\Visual Studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt Drive Design.vbproj.GenerateResource.Cache
+C:\Users\aimik\Documents\Visual Studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt Drive Design.exe
+C:\Users\aimik\Documents\Visual Studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt Drive Design.xml
+C:\Users\aimik\Documents\Visual Studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt Drive Design.pdb
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt_Drive_Design.Mainf.resources
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\bin\Debug\Y_Motor.mdb
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt_Drive_Design.SelectModel.resources
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt Drive Design.vbproj.CoreCompileInputs.cache
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt_Drive_Design.SelectProto.resources
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\bin\Debug\Vbelt1.mdb
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt_Drive_Design.SelectCondition.resources
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt_Drive_Design.Belt.resources
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt_Drive_Design.Selectld.resources
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt_Drive_Design.SelectRP.resources
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\bin\Debug\Belt Drive Design.exe.manifest
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\bin\Debug\Belt Drive Design.application
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt Drive Design.exe.manifest
+C:\Users\aimik\documents\visual studio 2017\Projects\Belt Drive Design\Belt Drive Design\obj\Debug\Belt Drive Design.application
